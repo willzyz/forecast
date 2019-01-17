@@ -1,11 +1,7 @@
 #!/usr/bin/env python 
 # coding: utf-8 
 
-# ## 
-# 
 # Build ARIMA model with python package 
-
-# In[1]:
 
 import cPickle, matplotlib.pyplot as plt, numpy as np 
 from statsmodels.tsa.arima_model import ARIMA 
